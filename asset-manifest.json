@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wisdom/static/css/main.96a81792.css",
+    "main.js": "/wisdom/static/js/main.f002f465.js",
+    "index.html": "/wisdom/index.html",
+    "main.96a81792.css.map": "/wisdom/static/css/main.96a81792.css.map",
+    "main.f002f465.js.map": "/wisdom/static/js/main.f002f465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a81792.css",
+    "static/js/main.f002f465.js"
+  ]
+}
