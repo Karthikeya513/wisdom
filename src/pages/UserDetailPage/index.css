@@ -1,0 +1,36 @@
+.user-detail {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 2rem auto;
+    background-color: rgb(168, 198, 201);
+    font-family: Bree serif;
+  }
+  .paragraph {
+    font-size: 80px;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  @media screen and (max-width:768px){
+    .paragraph {
+      font-size: 20px;
+    }
+    .user-detail {
+      max-width: 200px;
+    }
+  }
